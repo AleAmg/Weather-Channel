@@ -1,1 +1,12 @@
-#   Weather Channel
+#   Weather Channel (2021)
+
+Segundo proyecto realizado durante el curso introductorio de Plataforma 5.
+
+En este proyecto consumimos una API del clima para que nos diga el clima actual de la ciudad que le indicamos.
+
+- Link: https://weatherchannelamg.netlify.app/
+
+### 🛠 Tecnologias y herramientas utilizadas
+
+|![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)|![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)|![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)|
+|-------- |--------|--------|
